@@ -128,7 +128,7 @@
       <p class="pb-6 md:pb-0">
         &copy;2023 Nature Hamster. Tous droits réservés.
       </p>
-      <div class="flex flex-wrap inline-flex ml-auto">
+      <div class="flex flex-wrap flex-auto w-64 inline-flex ml-auto">
       <a
           href="#"
           target="_blank"
