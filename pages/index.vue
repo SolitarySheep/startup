@@ -21,14 +21,26 @@ contenuAccueil.value = data.value.page;
 </script>
 
 <template>
-  <h2 class="text-5xl pb-8 text-justify text-neutral-400">
-    {{ contenuAccueil.titre }}
-  </h2>
+  <div>
+    <div
+      class="md:absolute md:top-[50vh] md:right-[50vh] md:text-[#61B558] md:text-[600px] md:rotate-90 md:opacity-25 opacity-0"
+    >
+      <i class="ri-leaf-fill"></i>
+    </div>
+
+    <!-- <div
+      class="md:absolute md:top-[700px] md:right-[300px] md:text-[#61B558] md:text-[500px] md:rotate-[280deg] md:transform md:scale-x-[-1] md:opacity-25 opacity-0"
+    >
+      <i class="ri-leaf-fill"></i>
+    </div> -->
+
+    <h2 class="text-5xl mb-10 text-justify text-neutral-400">
+      {{ contenuAccueil.titre }}
+    </h2>
+  </div>
 
   <div
     class="text-3xl leading-loose text-justify text-neutral-600 pb-8"
     v-html="contenuAccueil.texte.html"
   ></div>
-
-  <!-- AJOUTER UNE IMAGE A DROITE  -->
 </template>
