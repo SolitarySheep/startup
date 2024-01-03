@@ -129,20 +129,22 @@
         &copy;2023 Nature Hamster. Tous droits réservés.
       </p>
       <div class="ml-auto">
-        <a
-          href="#"
-          target="_blank"
-          class="text-neutral-600 hover:text-neutral-500 text-5xl md:text-3xl pr-3"
-        >
-          <i class="ri-instagram-fill"></i>
-        </a>
-        <a
-          href="#"
-          target="_blank"
-          class="text-neutral-600 hover:text-neutral-500 ml-auto text-5xl md:text-3xl"
-        >
-          <i class="ri-facebook-box-fill"></i>
-        </a>
+      <div class="">
+              <img
+                src="/assets/images/insta.png"
+                alt="Image insta"
+                width="50px"
+                height="auto"
+              />
+        </div>
+        <div class="">
+              <img
+                src="/assets/images/fb.png"
+                alt="Image facebook"
+                width="50px"
+                height="auto"
+              />
+        </div>
       </div>
     </div>
   </footer>
