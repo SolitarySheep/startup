@@ -124,7 +124,7 @@
   </div>
 
   <footer class="bg-neutral-200 pt-6 pb-3 text-neutral-600 text-xl px-20">
-    <div class="container mx-auto md:flex justify-between">
+    <div class="ml-auto flex items-center">
       <p class="pb-6 md:pb-0">
         &copy;2023 Nature Hamster. Tous droits réservés.
       </p>
@@ -144,7 +144,7 @@
        <a
           href="#"
           target="_blank"
-          class="ml-auto"
+          class="ml-3"
         >
         <img    src="/assets/images/fb.png"
                 alt="Image facebook"
