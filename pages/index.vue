@@ -28,7 +28,7 @@ contenuAccueil.value = data.value.page;
      <img
             src="/assets/images/leaf-fill.svg"
             alt="Image du logo"
-            class="sm:w-10 md:w-[600px]" 
+            class="w-10 md:w-[600px]" 
             height="auto"
           />
     </div>
