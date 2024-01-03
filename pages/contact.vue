@@ -71,7 +71,7 @@ contenuContact.value = data.value.page;
               class="bg-neutral-500 hover:bg-neutral-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline text-xl"
               type="button"
             >
-              Send
+              Envoyer
             </button>
           </div>
         </form>
@@ -84,9 +84,7 @@ contenuContact.value = data.value.page;
           </p>
 
           <p class="text-3xl font-bold text-neutral-400 pt-6">Mail</p>
-          <p class="text-3xl text-neutral-600 pt-2">
-            startup.hamsters@gmail.com
-          </p>
+          <p class="text-3xl text-neutral-600 pt-2">nature.hamster@gmail.com</p>
 
           <p class="text-3xl font-bold text-neutral-400 pt-6">Téléphone</p>
           <p class="text-3xl text-neutral-600 pt-2">0460.60.60.60</p>
