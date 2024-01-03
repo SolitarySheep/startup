@@ -132,7 +132,7 @@
       <a
           href="#"
           target="_blank"
-          class="pr-3"
+          class=""
         >
          <img   src="/assets/images/insta.png"
                 alt="Image insta"
@@ -144,7 +144,7 @@
        <a
           href="#"
           target="_blank"
-          class="ml-auto"
+          class=""
         >
         <img    src="/assets/images/fb.png"
                 alt="Image facebook"
