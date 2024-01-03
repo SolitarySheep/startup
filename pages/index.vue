@@ -23,11 +23,13 @@ contenuAccueil.value = data.value.page;
 <template>
   <div>
     <div
-      class="md:absolute md:top-[50vh] md:right-[50vh] md:fill-[#61B558] md:fill-[600px] md:rotate-90 md:opacity-25 opacity-0"
+      class="md:absolute md:top-[50vh] md:right-[50vh] md:rotate-90 md:opacity-25 opacity-0"
     >
      <img
             src="/assets/images/leaf-fill.svg"
             alt="Image du logo"
+            width="600px"
+            height="auto"
           />
     </div>
 
