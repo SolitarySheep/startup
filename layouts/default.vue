@@ -136,7 +136,7 @@
         >
          <img   src="/assets/images/insta.png"
                 alt="Image insta"
-                width="50px"
+                width="40px"
                 height="auto"
           />
       </a>
@@ -148,7 +148,7 @@
         >
         <img    src="/assets/images/fb.png"
                 alt="Image facebook"
-                width="50px"
+                width="40px"
                 height="auto"
         />
        </a>
