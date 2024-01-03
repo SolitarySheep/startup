@@ -128,7 +128,7 @@
       <p class="pb-6 md:pb-0">
         &copy;2023 Nature Hamster. Tous droits réservés.
       </p>
-      <div class="ml-auto">
+      <div class="inline-flex">
       <a
           href="#"
           target="_blank"
@@ -144,7 +144,7 @@
        <a
           href="#"
           target="_blank"
-          class="ml-3"
+          class="ml-auto"
         >
         <img    src="/assets/images/fb.png"
                 alt="Image facebook"
