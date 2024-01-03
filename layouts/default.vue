@@ -124,11 +124,11 @@
   </div>
 
   <footer class="bg-neutral-200 pt-6 pb-3 text-neutral-600 text-xl px-20">
-    <div class="flex flex-wrap">
+    <div class="container mx-auto md:flex justify-between">
       <p class="pb-6 md:pb-0">
         &copy;2023 Nature Hamster. Tous droits réservés.
       </p>
-      <div class="inline-flex">
+      <div class="flex flex-wrap inline-flex ml-auto">
       <a
           href="#"
           target="_blank"
