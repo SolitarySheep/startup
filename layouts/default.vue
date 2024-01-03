@@ -132,7 +132,7 @@
       <a
           href="#"
           target="_blank"
-          class="ml-[75%]"
+          class="ml-auto"
         >
          <img   src="/assets/images/insta.png"
                 alt="Image insta"
